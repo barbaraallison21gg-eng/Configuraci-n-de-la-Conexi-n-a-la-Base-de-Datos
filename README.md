@@ -11,5 +11,4 @@ Este proyecto es una demostración de cómo conectar una aplicación de **Node.j
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone [https://github.com/TU_USUARIO/configuracion_db.git](https://github.com/TU_USUARIO/configuracion_db.git)
-   cd configuracion_db
+   git clone https://github.com/barbaraallison21gg-eng/Configuraci-n-de-la-Conexi-n-a-la-Base-de-Datos.git
